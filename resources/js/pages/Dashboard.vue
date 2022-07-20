@@ -47,7 +47,7 @@ export default {
     <BreezeAuthenticatedLayout>
         <template #header>
             <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-                Otavia Riron
+                Otavia Riron maravilhosa
             </h2>
         </template>
 
